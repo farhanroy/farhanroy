@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently study at SMK Telekomunikasi Darul Ulum
 - 🌱 I’m currently learning Android Kotlin & Flutter Dart
-- 📫 How to reach me: [Telegram](https://t.me/yoesuv)  
+- 📫 How to reach me: [Telegram](https://t.me/farhanroy)  
 
 </p>
 <p align="center">
