@@ -1,6 +1,6 @@
 ### Hi there 👋 Welcome to My Profile :octocat:
 
-- 🔭 I’m currently study at SMK Telekomunikasi Darul Ulum
+- 🔭 I’m currently study at Politeknik Elektronika Negeri Surabaya
 - 🌱 I’m currently learning Android Kotlin & Flutter Dart
 - 📫 How to reach me: [Telegram](https://t.me/farhanroy)  
 
